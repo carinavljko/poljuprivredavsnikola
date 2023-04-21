@@ -1,4 +1,5 @@
 # Poljuprivreda Vs. Nikola S.
 Modification for Plants Vs. Zombies.
 
-Just a headsup, this is the main.pak file. You need the original game in order to play this. You just have to overwrite the original main.pak file, do note that this is a irrevirsible action, unless you backed it up or got the game on STEAM.
+Just a headsup, I'm still working out the kinks, and trying to see how to upload it to here. If someone could help, that'd be splendid.
+Source Code & Release coming soon (Release will only contain main.pak file so that Mr. EA Sports doesn't send me to the cotton fields).
