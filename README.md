@@ -1,4 +1,4 @@
 # Poljuprivreda Vs. Nikola S.
 Modification for Plants Vs. Zombies.
 
-Just a headsup, this is the source code. You need to use a recompiler tool (Plants_vs_Zombies_main.pak_Patcherer) to restore this to a normal main.pak file. Or just play it as is (It could be unstable.)
+Just a headsup, this is the main.pak file. You need the original game in order to play this. You just have to overwrite the original main.pak file, do note that this is a irrevirsible action, unless you backed it up or got the game on STEAM.
